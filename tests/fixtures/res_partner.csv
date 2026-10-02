@@ -1,0 +1,37 @@
+id,name,customer_rank,supplier_rank
+1,My Company,0,0
+2,OdooBot,0,0
+3,Administrator,0,0
+4,Public user,0,0
+5,Default User Template,0,0
+6,Portal User Template,0,0
+7,LL Customer 01,29,0
+8,LL Customer 02,21,0
+9,LL Customer 03,30,0
+10,LL Customer 04,7,0
+11,LL Customer 05,7,0
+12,LL Customer 06,17,0
+13,LL Customer 07,14,0
+14,LL Customer 08,7,0
+15,LL Customer 09,17,0
+16,LL Customer 10,13,0
+17,LL Customer 11,8,0
+18,LL Customer 12,16,0
+19,LL Customer 13,7,0
+20,LL Customer 14,6,0
+21,LL Customer 15,14,0
+22,LL Customer 16,12,0
+23,LL Customer 17,14,0
+24,LL Customer 18,15,0
+25,LL Customer 19,21,0
+26,LL Customer 20,7,0
+27,LL Vendor 01,0,5
+28,LL Vendor 02,0,12
+29,LL Vendor 03,0,13
+30,LL Vendor 04,0,16
+31,LL Vendor 05,0,21
+32,LL Vendor 06,0,17
+33,LL Vendor 07,0,17
+34,LL Vendor 08,0,20
+35,LL Vendor 09,0,14
+36,LL Vendor 10,0,14

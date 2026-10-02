@@ -1,0 +1,11 @@
+id,code,name,account_type,reconcile
+330,1410,"Trade receivables, no separate receivables/payables accounting",asset_receivable,true
+411,1576,"Deductible input tax, 19 %",asset_current,
+437,1610,"Trade payables, no separate receivables/payables accounting",liability_payable,true
+538,1776,"VAT, 19 %",liability_current,
+875,3400,"Cost of merchandise, 19 % input tax",expense,
+1198,8400,"Revenue, 19 % VAT",income,
+1322,1201,Bank,asset_cash,
+1323,1001,Cash,asset_cash,
+1325,1203,Outstanding Receipts,asset_current,true
+1326,1204,Outstanding Payments,asset_current,true

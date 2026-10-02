@@ -1,0 +1,8 @@
+id,name,type,code,default_account_id
+8,Customer Invoices,sale,INV,1198
+9,Vendor Bills,purchase,BILL,875
+10,Miscellaneous Operations,general,MISC,
+11,Exchange Difference,general,EXCH,
+12,Cash Basis Taxes,general,CABA,
+13,Bank,bank,BNK1,1322
+14,Cash,cash,CSH1,1323

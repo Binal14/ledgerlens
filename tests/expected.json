@@ -1,0 +1,20 @@
+{
+  "_source": "Reference values computed independently from Odoo 17 ORM (account.invoice.report, account.move residuals, account.payment) on the seeded database, 2026-10-02. Seed 42, data up to 2026-09-30.",
+  "company_ids": [1],
+  "q3": {"date_from": "2026-07-01", "date_to": "2026-09-30"},
+  "ytd": {"date_from": "2026-01-01", "date_to": "2026-09-30"},
+  "as_of": "2026-09-30",
+  "revenue_q3": 611953.30,
+  "revenue_ytd": 1156530.18,
+  "expenses_q3": 71937.75,
+  "expenses_ytd": 132679.63,
+  "receivables_open": 385841.41,
+  "payables_open": 36388.12,
+  "ar_ageing": {"not_due": 169762.73, "d1_30": 78009.88, "d31_60": 44539.74, "d61_90": 74995.91, "d90_plus": 18533.15},
+  "overdue_count": 40,
+  "customer_payments_q3": 633703.56,
+  "customer_03_payments_all": 106866.35,
+  "customer_03_partner_id": 9,
+  "cash_position": 868928.96,
+  "top5_q3": [["LL Customer 01", 78238.56], ["LL Customer 06", 75270.29], ["LL Customer 09", 59855.40], ["LL Customer 03", 48657.44], ["LL Customer 12", 47563.29]]
+}
