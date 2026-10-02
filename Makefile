@@ -35,4 +35,4 @@ test:
 
 # Same tests against your live Odoo DB as the read-only role
 test-live:
-	LL_LIVE_DSN="postgresql://ledgerlens_ro:$(LL_RO_PASSWORD)@localhost:5432/ledgerlens" python -m pytest -q
+	LL_LIVE_DSN="postgresql://ledgerlens_ro:$(LL_RO_PASSWORD)@localhost:5433/ledgerlens" python -m pytest -q
